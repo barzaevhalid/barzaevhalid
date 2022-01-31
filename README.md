@@ -1,4 +1,4 @@
-## I'm a beginner Front-End Developer
+## I'm a  Front-End Developer
 
 ### Languages and Tools
 <p>
