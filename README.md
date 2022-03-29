@@ -6,7 +6,7 @@
 <hr/>
 Проект для туристического агентства
 <br/>
-<a href="https://tur--agency.herokuapp.com/">демо<a/> || <a href='https://github.com/barzaevhalid/BackendForTravelAgency'>Код backend<a/> || <a href='https://github.com/barzaevhalid/frontTur'>Код frontend <a/>
+<a href="https://tur--agency.herokuapp.com/">демо<a/> || <a href='https://github.com/barzaevhalid/frontTur'>Код frontend <a/>
 <br/>
 <br/>
 Связь со мной
